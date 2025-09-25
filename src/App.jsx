@@ -206,7 +206,7 @@ function App() {
                           }}
                           className="bg-violet-800 text-white hover:bg-violet-900 lg:py-[5px] py-2 px-2  rounded-lg text-xs font-bold"
                         >
-                          <img src="edit.svg" alt="Edit" />
+                          <img src="image./edit.svg" alt="Edit" />
                         </button>
                         <button
                           onClick={() => {
